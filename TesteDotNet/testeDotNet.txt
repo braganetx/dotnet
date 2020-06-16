@@ -1,0 +1,8 @@
+Fernando;Soma;10;2
+Ademar;Divisão;10;2
+Ronaldo;Multiplicacao;10;2
+Françoar;Subtração;10;2
+Janones;Subtração;10;2
+Leilinha;Divisão;10;2
+
+Adão Braga;Soma;10;20;2;5;12
